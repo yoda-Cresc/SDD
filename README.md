@@ -313,6 +313,9 @@ IXV addresses the challenges of understanding, structuring, and utilizing Japane
 
 MIT License - See [LICENSE](LICENSE) for details.
 
+
+追記20261118
+
 ## Contact
 
 - **Email**: info@elvez.co.jp
